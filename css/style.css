@@ -274,7 +274,7 @@ ul {
   width: 80%;
   height: 70vh;
   margin: 0 auto;
-  background: url("./../image/bg_header.png") no-repeat center center;
+  background: url("./../image/bg_header.webp") no-repeat center center;
   background-size: 80% auto;
 }
 
@@ -305,7 +305,7 @@ ul {
 }
 
 .description .description__bg {
-  background: #fff url("./../image/bg_description.jpg") no-repeat center center;
+  background: #fff url("./../image/bg_description.webp") no-repeat center center;
   background-size: 100% auto;
   background-attachment: fixed;
 }
